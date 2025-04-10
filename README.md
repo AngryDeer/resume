@@ -1,3 +1,3 @@
 # Тестовое задание
 
-[Публикация здесь] (https://angrydeer.github.io/resume/)
+[Публикация здесь](https://angrydeer.github.io/resume/)
